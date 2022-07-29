@@ -1,0 +1,32 @@
+body {
+    padding:20px;
+}
+input {
+    padding:5px;
+    background-color:transparent;
+    border:none;
+    width:250px;
+    font-size:16px;
+}
+
+#qr-result {
+    font-weight: bold;
+    font-family: Arial;
+    font-size: 1.1em;
+}
+
+#heading{
+    font-weight: bold;
+    font-family: Arial;
+    font-size: 50px;
+    color: #337ab7
+}
+
+canvas {
+    height: 300px;
+    width: 300px;
+}
+
+.myform {
+    align-content: center;
+}
